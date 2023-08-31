@@ -1,1 +1,1 @@
-Using Java or C++ determine the motion of a knight on a chess board starting from a corner of the board and displays its path of motion
+Using Java or C++ determine the motion of a knight on a chess board starting from a corner of the board and display its path of motion. The piece moves in the same direction till it reaches the opposite end of the board then switches directions after that. The knight is not allowed to go to any of the previous spots it landed on. This keeps going till it can't move to any new spot.
